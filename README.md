@@ -5,6 +5,7 @@
     "npm i hygen".
     
 Данный репозиторий содержит базовые шаблоны hygen для быстрого развертывания начальной структуры приложения на основе create-react-app.
+
 Для установки шаблонов поместите файл .hygen.js и папку .hygen в корневую папку проекта.
 
 ![enter image description here](https://sun9-56.userapi.com/impf/-w7dYlWygBGRzU1izc_TAPr1dbjLmLsLTc3OcQ/2s04nGIePtI.jpg?size=201x226&quality=96&sign=8c2e27e5b2842a7be87ce7b5bebc9811&type=album)
@@ -24,6 +25,7 @@
 ## Создание компонента App
 
 **npm run new:app**  - создаст папку App с двумя файлами *.js* и *.css* по пути src/components/App/App.js
+
 Файл содержит:
 
 ![enter image description here](https://sun9-17.userapi.com/impf/Ue9doVKQd6w8Atjs7zkXCYOvFkKrz9XkbaegTw/MiVa5Whp2J4.jpg?size=1448x1208&quality=96&sign=bd07bd1d8ff596798a0de87a6c998df2&type=album)

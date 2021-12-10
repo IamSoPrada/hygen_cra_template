@@ -1,8 +1,8 @@
 # hygen_cra_template!
-Для работы шаблонизатора hygen и работы React Router Dom v6 установите эти библиотеки следующими командами:
+Для работы шаблонизатора **hygen** и работы **React Router Dom v6** установите эти библиотеки следующими командами:
 
-    "npm i react-router-dom",
-    "npm i hygen".
+    "npm i react-router-dom", https://reactrouter.com/docs/en/v6/getting-started/overview
+    "npm i hygen". - https://www.hygen.io/docs/quick-start/
     
 Данный репозиторий содержит базовые шаблоны hygen для быстрого развертывания начальной структуры приложения на основе create-react-app.
 

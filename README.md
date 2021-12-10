@@ -41,6 +41,7 @@
 ## Создание папки Pages и отдельных страниц приложения
 
 **npm run new:pages**  - создаст папку Pages с предсозданными страницами: HomePage, AboutPage, NotFoundPage *.js* и *.css* по пути src/Pages
+
 **npm run new:page**  - создаст компонент "NAME_YOUR_PAGE"Page с файлами *.js* и *.css* по пути src/Pages/"NAME_YOUR_PAGE"Page
 
 Файл *.js* будет содержать:
